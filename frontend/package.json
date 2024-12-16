@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@shadcn/ui": "^0.0.4",
+    "axios": "^1.7.9",
+    "jwt-decode": "^4.0.0",
+    "lucide-react": "^0.468.0",
+    "recharts": "^2.15.0"
+  }
+}
